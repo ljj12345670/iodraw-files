@@ -117,7 +117,7 @@
         <mxCell id="jouDgoXTgc5NJ2Ozhajr-23" value="身份证号" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="300" y="120" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="jouDgoXTgc5NJ2Ozhajr-24" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="jouDgoXTgc5NJ2Ozhajr-24" value="顾客" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="200" y="235" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="jouDgoXTgc5NJ2Ozhajr-25" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
@@ -141,7 +141,7 @@
         <mxCell id="jouDgoXTgc5NJ2Ozhajr-31" value="会员卡" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="660" y="225" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="jouDgoXTgc5NJ2Ozhajr-32" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="jouDgoXTgc5NJ2Ozhajr-32" value="拥有地址" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="120" y="345" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="jouDgoXTgc5NJ2Ozhajr-35" value="拥有" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
