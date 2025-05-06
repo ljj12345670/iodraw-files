@@ -111,7 +111,7 @@
         <mxCell id="jouDgoXTgc5NJ2Ozhajr-19" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=-0.008;entryY=0.596;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="s4QWwQWigzF8OAgCT5Xy-26" target="s4QWwQWigzF8OAgCT5Xy-33">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="jouDgoXTgc5NJ2Ozhajr-22" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="jouDgoXTgc5NJ2Ozhajr-22" value="姓名" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="130" y="125" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="jouDgoXTgc5NJ2Ozhajr-23" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
