@@ -135,7 +135,7 @@
         <mxCell id="jouDgoXTgc5NJ2Ozhajr-29" value="电话" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="280" y="485" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="jouDgoXTgc5NJ2Ozhajr-30" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="jouDgoXTgc5NJ2Ozhajr-30" value="地址" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="130" y="480" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="jouDgoXTgc5NJ2Ozhajr-31" value="会员卡" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
@@ -150,7 +150,7 @@
         <mxCell id="jouDgoXTgc5NJ2Ozhajr-36" value="积分" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="650" y="335" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="jouDgoXTgc5NJ2Ozhajr-37" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="jouDgoXTgc5NJ2Ozhajr-37" value="号码" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="510" y="565" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="jouDgoXTgc5NJ2Ozhajr-38" value="区号" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
