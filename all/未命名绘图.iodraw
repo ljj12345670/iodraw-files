@@ -16,7 +16,7 @@
         <mxCell id="s4QWwQWigzF8OAgCT5Xy-4" value="部门" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="110" y="200" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="s4QWwQWigzF8OAgCT5Xy-5" value="" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="s4QWwQWigzF8OAgCT5Xy-5" value="姓名" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="640" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="s4QWwQWigzF8OAgCT5Xy-6" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
