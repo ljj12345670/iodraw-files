@@ -41,13 +41,13 @@
           <mxGeometry x="-120" y="18" width="110" height="80" as="geometry" />
         </mxCell>
         <mxCell id="s4QWwQWigzF8OAgCT5Xy-30" value="编号" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-90" y="460" width="120" height="80" as="geometry" />
+          <mxGeometry x="-150" y="640" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="s4QWwQWigzF8OAgCT5Xy-31" value="姓名" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-10" y="550" width="120" height="80" as="geometry" />
+          <mxGeometry x="10" y="640" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="s4QWwQWigzF8OAgCT5Xy-32" value="年龄" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="120" y="580" width="120" height="80" as="geometry" />
+          <mxGeometry x="145" y="630" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="s4QWwQWigzF8OAgCT5Xy-33" value="时间比" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="320" y="310" width="120" height="80" as="geometry" />
