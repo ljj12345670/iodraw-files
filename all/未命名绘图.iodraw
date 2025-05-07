@@ -50,7 +50,7 @@
           <mxGeometry x="145" y="630" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="s4QWwQWigzF8OAgCT5Xy-33" value="时间比" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="320" y="310" width="120" height="80" as="geometry" />
+          <mxGeometry x="390" y="370" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="s4QWwQWigzF8OAgCT5Xy-35" value="编号" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="620" y="670" width="120" height="80" as="geometry" />
