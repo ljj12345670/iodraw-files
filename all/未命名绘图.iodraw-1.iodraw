@@ -157,8 +157,8 @@
         <mxCell id="RAamiCOHjQQKDucfZcKP-158" value="订单详情" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="600" y="520" width="80" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="RAamiCOHjQQKDucfZcKP-159" value="用户名邮箱展示" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="410" y="530" width="80" height="60" as="geometry" />
+        <mxCell id="RAamiCOHjQQKDucfZcKP-159" value="删除" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="700" y="520" width="80" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
