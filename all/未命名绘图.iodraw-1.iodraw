@@ -58,6 +58,9 @@
         <mxCell id="RAamiCOHjQQKDucfZcKP-15" value="购物系统" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="380" y="290" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="RAamiCOHjQQKDucfZcKP-16" value="购物系统" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="540" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
