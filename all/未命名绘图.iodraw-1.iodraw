@@ -29,7 +29,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="RAamiCOHjQQKDucfZcKP-13" value="商品展示" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="25" y="295" width="120" height="70" as="geometry" />
+          <mxGeometry x="25" y="270" width="120" height="70" as="geometry" />
         </mxCell>
         <mxCell id="RAamiCOHjQQKDucfZcKP-15" value="个人信息" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="354" y="280" width="120" height="60" as="geometry" />
