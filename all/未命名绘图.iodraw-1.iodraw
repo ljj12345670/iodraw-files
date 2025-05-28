@@ -31,12 +31,7 @@
         <mxCell id="RAamiCOHjQQKDucfZcKP-13" value="商品展示" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="25" y="245" width="120" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="RAamiCOHjQQKDucfZcKP-131" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="RAamiCOHjQQKDucfZcKP-15">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="480" y="400" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="RAamiCOHjQQKDucfZcKP-134" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="RAamiCOHjQQKDucfZcKP-15">
+        <mxCell id="RAamiCOHjQQKDucfZcKP-134" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="RAamiCOHjQQKDucfZcKP-15" target="RAamiCOHjQQKDucfZcKP-133">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="750" y="330" as="targetPoint" />
           </mxGeometry>
