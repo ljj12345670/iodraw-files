@@ -4,7 +4,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="RAamiCOHjQQKDucfZcKP-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1">
+        <mxCell id="RAamiCOHjQQKDucfZcKP-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="RAamiCOHjQQKDucfZcKP-13">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="510" y="210" as="sourcePoint" />
             <mxPoint x="110" y="360" as="targetPoint" />
@@ -29,7 +29,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="RAamiCOHjQQKDucfZcKP-13" value="商品展示" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="50" y="290" width="120" height="70" as="geometry" />
+          <mxGeometry x="100" y="290" width="120" height="70" as="geometry" />
         </mxCell>
         <mxCell id="RAamiCOHjQQKDucfZcKP-15" value="个人信息" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="510" y="290" width="120" height="60" as="geometry" />
@@ -38,7 +38,7 @@
           <mxGeometry x="920" y="300" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="RAamiCOHjQQKDucfZcKP-35" value="查看购物车" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="260" y="440" width="90" height="70" as="geometry" />
+          <mxGeometry x="320" y="440" width="90" height="70" as="geometry" />
         </mxCell>
         <mxCell id="RAamiCOHjQQKDucfZcKP-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.383;entryY=0.025;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="RAamiCOHjQQKDucfZcKP-25" target="RAamiCOHjQQKDucfZcKP-63">
           <mxGeometry relative="1" as="geometry">
@@ -70,7 +70,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="RAamiCOHjQQKDucfZcKP-34" value="加入购物车操作" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="65" y="440" width="90" height="70" as="geometry" />
+          <mxGeometry x="120" y="450" width="90" height="70" as="geometry" />
         </mxCell>
         <mxCell id="RAamiCOHjQQKDucfZcKP-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.581;entryY=-0.024;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="RAamiCOHjQQKDucfZcKP-13" target="RAamiCOHjQQKDucfZcKP-25">
           <mxGeometry relative="1" as="geometry" />
