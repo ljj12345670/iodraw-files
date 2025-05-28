@@ -140,7 +140,7 @@
           <mxGeometry x="380" y="510" width="90" height="70" as="geometry" />
         </mxCell>
         <mxCell id="RAamiCOHjQQKDucfZcKP-142" value="查看购物车" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="230" y="400" width="90" height="70" as="geometry" />
+          <mxGeometry x="490" y="510" width="80" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
