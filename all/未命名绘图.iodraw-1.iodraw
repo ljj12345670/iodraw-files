@@ -60,8 +60,8 @@
         </mxCell>
         <mxCell id="RAamiCOHjQQKDucfZcKP-19" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="170" y="470" as="sourcePoint" />
-            <mxPoint x="170" y="400" as="targetPoint" />
+            <mxPoint x="200" y="470" as="sourcePoint" />
+            <mxPoint x="200" y="400" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="RAamiCOHjQQKDucfZcKP-20" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
@@ -77,7 +77,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="RAamiCOHjQQKDucfZcKP-25" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-110" y="585" width="70" height="60" as="geometry" />
+          <mxGeometry x="-40" y="470" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="RAamiCOHjQQKDucfZcKP-32" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="RAamiCOHjQQKDucfZcKP-13">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
