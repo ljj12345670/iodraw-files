@@ -81,6 +81,10 @@
         <mxCell id="RAamiCOHjQQKDucfZcKP-110" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="RAamiCOHjQQKDucfZcKP-25">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-150" y="520" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-70" y="480" />
+              <mxPoint x="-149" y="480" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="RAamiCOHjQQKDucfZcKP-25" value="商品详情" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -90,9 +94,6 @@
           <mxGeometry x="40" y="380" width="90" height="70" as="geometry" />
         </mxCell>
         <mxCell id="RAamiCOHjQQKDucfZcKP-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.581;entryY=-0.024;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="RAamiCOHjQQKDucfZcKP-13" target="RAamiCOHjQQKDucfZcKP-25">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="RAamiCOHjQQKDucfZcKP-111" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="RAamiCOHjQQKDucfZcKP-63" target="RAamiCOHjQQKDucfZcKP-25">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="RAamiCOHjQQKDucfZcKP-63" value="图片" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
