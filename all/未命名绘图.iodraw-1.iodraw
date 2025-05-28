@@ -55,13 +55,13 @@
         <mxCell id="RAamiCOHjQQKDucfZcKP-35" value="查看购物车" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="190" y="380" width="90" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="RAamiCOHjQQKDucfZcKP-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="RAamiCOHjQQKDucfZcKP-63">
+        <mxCell id="RAamiCOHjQQKDucfZcKP-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-162.33999999999992" y="591.25" as="targetPoint" />
-            <mxPoint x="-75" y="540" as="sourcePoint" />
+            <mxPoint x="-155" y="550" as="targetPoint" />
+            <mxPoint x="-80" y="510" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="-75" y="541" />
-              <mxPoint x="-150" y="541" />
+              <mxPoint x="-80" y="511" />
+              <mxPoint x="-155" y="511" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -90,7 +90,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="RAamiCOHjQQKDucfZcKP-63" value="图片" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-160" y="580" width="20" height="40" as="geometry" />
+          <mxGeometry x="-160" y="545" width="20" height="40" as="geometry" />
         </mxCell>
         <mxCell id="RAamiCOHjQQKDucfZcKP-64" value="价格" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-120" y="570" width="20" height="40" as="geometry" />
