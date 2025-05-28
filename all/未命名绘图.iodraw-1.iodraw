@@ -13,22 +13,10 @@
             <mxPoint x="440" y="360" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="RAamiCOHjQQKDucfZcKP-4" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="600" y="230" as="sourcePoint" />
-            <mxPoint x="119" y="230" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="RAamiCOHjQQKDucfZcKP-5" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="120" y="290" as="sourcePoint" />
             <mxPoint x="120" y="230" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="RAamiCOHjQQKDucfZcKP-8" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="360" y="300" as="sourcePoint" />
-            <mxPoint x="360" y="230" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="RAamiCOHjQQKDucfZcKP-9" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
@@ -38,19 +26,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="RAamiCOHjQQKDucfZcKP-13" value="商品展示" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="50" y="290" width="120" height="60" as="geometry" />
+          <mxGeometry x="60" y="400" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="RAamiCOHjQQKDucfZcKP-15" value="个人信息" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="300" y="290" width="120" height="60" as="geometry" />
+          <mxGeometry x="310" y="470" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="RAamiCOHjQQKDucfZcKP-16" value="退出页面" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="540" y="290" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="RAamiCOHjQQKDucfZcKP-17" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="390" y="610" as="sourcePoint" />
-            <mxPoint x="440" y="560" as="targetPoint" />
-          </mxGeometry>
+          <mxGeometry x="540" y="460" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
