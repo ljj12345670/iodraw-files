@@ -35,7 +35,7 @@
           <mxGeometry x="354" y="245" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="RAamiCOHjQQKDucfZcKP-16" value="退出页面" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="630" y="260" width="120" height="60" as="geometry" />
+          <mxGeometry x="630" y="240" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="RAamiCOHjQQKDucfZcKP-94" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="RAamiCOHjQQKDucfZcKP-35" target="RAamiCOHjQQKDucfZcKP-86">
           <mxGeometry relative="1" as="geometry" />
@@ -62,6 +62,9 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="RAamiCOHjQQKDucfZcKP-129" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="RAamiCOHjQQKDucfZcKP-25" target="RAamiCOHjQQKDucfZcKP-65">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RAamiCOHjQQKDucfZcKP-130" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="RAamiCOHjQQKDucfZcKP-25" target="RAamiCOHjQQKDucfZcKP-66">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="RAamiCOHjQQKDucfZcKP-25" value="商品详情" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
