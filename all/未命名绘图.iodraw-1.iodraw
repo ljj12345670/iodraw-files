@@ -90,7 +90,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="RAamiCOHjQQKDucfZcKP-63" value="图片" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-160" y="570" width="20" height="40" as="geometry" />
+          <mxGeometry x="-160" y="580" width="20" height="40" as="geometry" />
         </mxCell>
         <mxCell id="RAamiCOHjQQKDucfZcKP-64" value="价格" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-120" y="570" width="20" height="40" as="geometry" />
