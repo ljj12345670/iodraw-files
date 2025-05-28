@@ -118,7 +118,10 @@
           <mxGeometry x="280" y="510" width="20" height="40" as="geometry" />
         </mxCell>
         <mxCell id="RAamiCOHjQQKDucfZcKP-132" value="查看购物车" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="430" y="400" width="90" height="70" as="geometry" />
+          <mxGeometry x="430" y="380" width="90" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="RAamiCOHjQQKDucfZcKP-133" value="查看购物车" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="630" y="380" width="90" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
