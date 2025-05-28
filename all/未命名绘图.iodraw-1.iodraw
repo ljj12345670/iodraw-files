@@ -4,12 +4,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="RAamiCOHjQQKDucfZcKP-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="RAamiCOHjQQKDucfZcKP-1" target="RAamiCOHjQQKDucfZcKP-15">
+        <mxCell id="RAamiCOHjQQKDucfZcKP-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="RAamiCOHjQQKDucfZcKP-1">
           <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="360" y="210" />
-              <mxPoint x="360" y="210" />
-            </Array>
+            <mxPoint x="280" y="930" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="RAamiCOHjQQKDucfZcKP-1" value="购物系统" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
