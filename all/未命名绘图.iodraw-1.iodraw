@@ -68,6 +68,10 @@
         <mxCell id="RAamiCOHjQQKDucfZcKP-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="RAamiCOHjQQKDucfZcKP-25" target="RAamiCOHjQQKDucfZcKP-64">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-80" y="570" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-70" y="480" />
+              <mxPoint x="-110" y="480" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="RAamiCOHjQQKDucfZcKP-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="RAamiCOHjQQKDucfZcKP-25" target="RAamiCOHjQQKDucfZcKP-65">
@@ -78,6 +82,10 @@
         <mxCell id="RAamiCOHjQQKDucfZcKP-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="RAamiCOHjQQKDucfZcKP-25" target="RAamiCOHjQQKDucfZcKP-66">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="20" y="570" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-70" y="480" />
+              <mxPoint x="-30" y="480" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="RAamiCOHjQQKDucfZcKP-25" value="商品详情" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -93,7 +101,7 @@
           <mxGeometry x="-160" y="545" width="20" height="40" as="geometry" />
         </mxCell>
         <mxCell id="RAamiCOHjQQKDucfZcKP-64" value="价格" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-120" y="570" width="20" height="40" as="geometry" />
+          <mxGeometry x="-120" y="530" width="20" height="40" as="geometry" />
         </mxCell>
         <mxCell id="RAamiCOHjQQKDucfZcKP-65" value="库存" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-80" y="570" width="20" height="40" as="geometry" />
