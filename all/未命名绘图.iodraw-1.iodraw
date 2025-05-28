@@ -160,7 +160,7 @@
           <mxGeometry x="25" y="510" width="20" height="70" as="geometry" />
         </mxCell>
         <mxCell id="RAamiCOHjQQKDucfZcKP-158" value="订单详情" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="590" y="520" width="80" height="50" as="geometry" />
+          <mxGeometry x="580" y="520" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="RAamiCOHjQQKDucfZcKP-159" value="删除" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="680" y="520" width="80" height="50" as="geometry" />
@@ -175,7 +175,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="RAamiCOHjQQKDucfZcKP-164" value="返回登录前页面" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="840" y="380" width="120" height="60" as="geometry" />
+          <mxGeometry x="827" y="385" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
