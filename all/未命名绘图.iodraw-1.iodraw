@@ -39,6 +39,11 @@
         <mxCell id="RAamiCOHjQQKDucfZcKP-15" value="个人信息" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="520" y="240" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="RAamiCOHjQQKDucfZcKP-163" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="RAamiCOHjQQKDucfZcKP-16">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="900" y="460" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="RAamiCOHjQQKDucfZcKP-16" value="退出页面" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="840" y="245" width="120" height="60" as="geometry" />
         </mxCell>
@@ -149,7 +154,7 @@
           <mxGeometry x="390" y="510" width="80" height="60" as="geometry" />
         </mxCell>
         <mxCell id="RAamiCOHjQQKDucfZcKP-142" value="修改个人信息" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="490" y="510" width="80" height="60" as="geometry" />
+          <mxGeometry x="490" y="510" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="RAamiCOHjQQKDucfZcKP-152" value="添加购物车" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="25" y="510" width="20" height="70" as="geometry" />
@@ -164,6 +169,9 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="RAamiCOHjQQKDucfZcKP-161" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="RAamiCOHjQQKDucfZcKP-158" target="RAamiCOHjQQKDucfZcKP-158">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RAamiCOHjQQKDucfZcKP-162" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="RAamiCOHjQQKDucfZcKP-141" target="RAamiCOHjQQKDucfZcKP-141">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
