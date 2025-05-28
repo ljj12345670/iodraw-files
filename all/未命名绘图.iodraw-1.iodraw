@@ -91,7 +91,11 @@
         </mxCell>
         <mxCell id="RAamiCOHjQQKDucfZcKP-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="RAamiCOHjQQKDucfZcKP-25">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="5" y="560" as="targetPoint" />
+            <mxPoint x="-80" y="580" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="5" y="545" />
+              <mxPoint x="-79" y="545" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="RAamiCOHjQQKDucfZcKP-25" value="商品详情&lt;div&gt;（&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;商品名，描述，价格，库存）&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
