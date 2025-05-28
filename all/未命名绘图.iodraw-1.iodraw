@@ -46,9 +46,6 @@
         <mxCell id="RAamiCOHjQQKDucfZcKP-13" value="登录" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="50" y="290" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="RAamiCOHjQQKDucfZcKP-14" value="注册" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="220" y="290" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="RAamiCOHjQQKDucfZcKP-15" value="商品展示" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="380" y="290" width="120" height="60" as="geometry" />
         </mxCell>
