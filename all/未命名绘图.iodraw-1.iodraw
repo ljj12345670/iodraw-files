@@ -136,8 +136,11 @@
         <mxCell id="RAamiCOHjQQKDucfZcKP-133" value="订单记录" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="630" y="380" width="90" height="70" as="geometry" />
         </mxCell>
+        <mxCell id="RAamiCOHjQQKDucfZcKP-139" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="RAamiCOHjQQKDucfZcKP-138" target="RAamiCOHjQQKDucfZcKP-132">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="RAamiCOHjQQKDucfZcKP-138" value="删除" style="rounded=1;whiteSpace=wrap;html=1;arcSize=0;" vertex="1" parent="1">
-          <mxGeometry x="330" y="520" width="20" height="40" as="geometry" />
+          <mxGeometry x="420" y="510" width="20" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
