@@ -38,7 +38,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="RAamiCOHjQQKDucfZcKP-35" value="查看购物车" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="170" y="440" width="90" height="70" as="geometry" />
+          <mxGeometry x="180" y="450" width="90" height="70" as="geometry" />
         </mxCell>
         <mxCell id="RAamiCOHjQQKDucfZcKP-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="RAamiCOHjQQKDucfZcKP-25">
           <mxGeometry relative="1" as="geometry">
