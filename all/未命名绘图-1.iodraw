@@ -4,13 +4,8 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="lH-XpL2O3M1521DGtFqv-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="lH-XpL2O3M1521DGtFqv-21">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="220" y="260" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="lH-XpL2O3M1521DGtFqv-21" value="users" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="160" y="200" width="100" height="30" as="geometry" />
+          <mxGeometry x="90" y="245" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="lH-XpL2O3M1521DGtFqv-22" value="order_detail" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="500" y="240" width="130" height="60" as="geometry" />
