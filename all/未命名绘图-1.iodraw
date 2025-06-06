@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="lH-XpL2O3M1521DGtFqv-10" value="users" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="10" y="130" width="120" height="60" as="geometry" />
+          <mxGeometry x="100" y="150" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="lH-XpL2O3M1521DGtFqv-11" value="products" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="420" y="130" width="120" height="60" as="geometry" />
@@ -13,7 +13,7 @@
         <mxCell id="lH-XpL2O3M1521DGtFqv-12" value="orders" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="510" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="lH-XpL2O3M1521DGtFqv-13" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="lH-XpL2O3M1521DGtFqv-13" value="order_detail" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="640" y="490" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
