@@ -4,6 +4,11 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="lH-XpL2O3M1521DGtFqv-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="lH-XpL2O3M1521DGtFqv-21">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="220" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="lH-XpL2O3M1521DGtFqv-21" value="users" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="160" y="200" width="100" height="30" as="geometry" />
         </mxCell>
@@ -191,7 +196,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="lH-XpL2O3M1521DGtFqv-77" value="拥有" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="280" y="250" width="120" height="60" as="geometry" />
+          <mxGeometry x="340" y="230" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="lH-XpL2O3M1521DGtFqv-78" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="lH-XpL2O3M1521DGtFqv-21" target="lH-XpL2O3M1521DGtFqv-77">
           <mxGeometry relative="1" as="geometry">
@@ -204,7 +209,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="lH-XpL2O3M1521DGtFqv-80" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="lH-XpL2O3M1521DGtFqv-77" target="lH-XpL2O3M1521DGtFqv-23">
+        <mxCell id="lH-XpL2O3M1521DGtFqv-80" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="lH-XpL2O3M1521DGtFqv-77" target="lH-XpL2O3M1521DGtFqv-22">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="340" y="380" as="sourcePoint" />
             <mxPoint x="500" y="380" as="targetPoint" />
