@@ -241,7 +241,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="lH-XpL2O3M1521DGtFqv-90" value="Relationship" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="360" y="350" width="120" height="60" as="geometry" />
+          <mxGeometry x="480" y="380" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lH-XpL2O3M1521DGtFqv-91" value="" style="endArrow=none;html=1;rounded=0;entryX=0.446;entryY=0.961;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="lH-XpL2O3M1521DGtFqv-22">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="340" y="380" as="sourcePoint" />
+            <mxPoint x="500" y="380" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
